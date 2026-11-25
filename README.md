@@ -27,7 +27,7 @@ Note, to run within a container, first create an image file (`rhds-tcga-r.sif`) 
 apptainer build rhds-tcga-r.sif rhds-tcga-r.def
 ```
 
-Then use it to run the scripts e.g.
+Then use it to run the scripts, for example:
 
 ```
 source config.env
